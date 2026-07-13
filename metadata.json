@@ -1,0 +1,6 @@
+{
+  "name": "Dark Cobra Music",
+  "description": "Sitio web oficial premium de Dark Cobra Music y CobraSoundBeats. Hip Hop, Rap, Reggaetón, Corridos y Música Urbana desde Ecuador. Escucha lanzamientos, lee el blog, entérate de próximos estrenos y chatea con nuestro chatbot IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
